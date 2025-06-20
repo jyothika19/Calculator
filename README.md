@@ -9,6 +9,6 @@ Buttons for each number and operation.
 A display area that shows the current input and result.
 A button to clear the screen.
 
-# [Preview the site]()
+# [Preview the site](https://github.com/jyothika19/Calculator.git)
 
 ![image info]()
