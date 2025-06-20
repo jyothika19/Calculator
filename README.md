@@ -11,4 +11,4 @@ A button to clear the screen.
 
 # [Preview the site](https://github.com/jyothika19/Calculator.git)
 
-![image info]()
+![calculator](https://github.com/user-attachments/assets/4a0c2fe7-3de3-4a54-9d7e-afc966801c07)
